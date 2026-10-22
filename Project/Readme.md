@@ -75,7 +75,12 @@ Performs addition, subtraction, multiplication, and division on two numbers.
 
 Watch the video demonstration of the Basic Calculation Assignment to see how the JavaScript programs work.
 
-▶️ **Project Demo Video:** [Add Your Video Link Here](https://example.com)
+▶️ **Project Demo Video:** 
+
+
+https://github.com/user-attachments/assets/898d9f2e-2280-471c-a80c-3dcc40bb04c5
+
+
 
 > **Note:** Replace the example link above with your actual video link. You can upload your video to YouTube or add a video file to your GitHub repository.
 
