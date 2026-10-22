@@ -1,90 +1,107 @@
-JavaScript Basic Calculation Assignment (Q1--Q8)
+# Basic Calculation Assignment
 
-This repository contains beginner-friendly JavaScript programs for
-practicing basic calculations, user input, operators, and conditional
-statements.
+## 📌 Project Overview
 
-Questions Included
+This project contains basic JavaScript calculation programs created as part of a programming assignment. It helps beginners understand JavaScript variables, user input, mathematical operators, and console output.
 
-Q1. Basic JavaScript Program
+## 🛠️ Technologies Used
 
-Use this section for your first JavaScript program from the assignment.
+* HTML5
+* JavaScript
 
-Q2. Variables and Data Types
+## 📂 Project Structure
 
-Practice declaring variables and working with basic JavaScript values.
+```text
+Basic-Calculation-Assignment/
+│
+├── index.html
+├── README.md
+└── js/
+    ├── script.js
+    ├── script1.js
+    ├── script2.js
+    ├── script3.js
+    ├── script4.js
+    ├── script5.js
+    ├── script6.js
+    └── script7.js
+```
 
-Q3. Operators and Calculations
+## 📚 Programs Included
 
-Practice using JavaScript operators to perform calculations.
+### 1. Celsius to Fahrenheit
 
-Q4. Swap Two Variables
+Converts temperature from Celsius to Fahrenheit.
 
-Swap the values of two variables. Possible approaches include using a
-third variable or arithmetic operators.
+**Formula:** `F = (C × 9/5) + 32`
 
-Q5. Multiplication Table
+### 2. Gross Salary Calculation
 
-Print a multiplication table without using loops. This can be done with
-separate console.log() statements.
+Calculates gross salary using basic salary, HRA, DA, and TA percentages.
 
-Q6. Student Grade Calculator
+**Formula:** `Gross Salary = Basic Salary + HRA + DA + TA`
 
-Input a student's name and marks in five subjects, then calculate: -
-Total marks - Percentage - Grade
+### 3. Triangle Third Angle
 
-The example assumes each subject is marked out of 100. Adjust grade
-boundaries to match your teacher's instructions.
+Calculates the third angle of a triangle when the first two angles are provided.
 
-Q7. Age Calculator
+**Formula:** `Third Angle = 180 - First Angle - Second Angle`
 
-Input a birth year, calculate an approximate age, and display an age
-category: - Child - Teenager - Adult - Senior Citizen
+### 4. Swap Two Numbers
 
-The age calculation based only on birth year may be off by one depending
-on whether the birthday has occurred this year.
+Swaps the values of two variables using multiplication and division.
 
-Q8. Basic Calculator
+### 5. Multiplication Table
 
-Input two numbers and display: - Addition - Subtraction -
-Multiplication - Division
+Displays the multiplication table of a number from 1 to 10.
 
-Avoid dividing by zero.
+### 6. Student Marks and Percentage
 
-Requirements
+Accepts a student's name and marks in five subjects, calculates total marks, and calculates the percentage.
 
-A web browser with JavaScript support
+**Formula:** `Percentage = (Total Marks / 500) × 100`
 
-A code editor such as Visual Studio Code
+### 7. Age Calculator
 
-How to Run
+Calculates the current age using the birth year and current year.
 
-Open the JavaScript file in your code editor.
+**Formula:** `Age = Current Year - Birth Year`
 
-Run the program in a browser environment that supports prompt()
-and console.log().
+### 8. Basic Arithmetic Operations
 
-Enter values when prompted.
+Performs addition, subtraction, multiplication, and division on two numbers.
 
-Open the browser developer console to view the output.
+## 🎥 Video Demonstration
 
-Note: prompt() is available in browsers, but it is not available by
-default in every Node.js environment.
+Watch the video demonstration of the Basic Calculation Assignment to see how the JavaScript programs work.
 
-Concepts Practiced
+▶️ **Project Demo Video:** [Add Your Video Link Here](https://example.com)
 
-Variables (let)
+> **Note:** Replace the example link above with your actual video link. You can upload your video to YouTube or add a video file to your GitHub repository.
 
-User input (prompt())
+## 🚀 How to Run the Project
 
-Type conversion (+prompt())
+1. Download or clone the project to your computer.
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` in your browser using Live Server.
+4. Open the browser's Developer Tools.
+5. Go to the **Console** tab to view the calculation results.
+6. Enter the requested values in the popup prompts.
 
-Arithmetic operators (+, -, *, /)
+## 💻 JavaScript Concepts Practiced
 
-Conditional statements (if, else if, else)
+* Variables using `let` and `const`
+* User input using `prompt()`
+* Type conversion using `Number()`
+* Arithmetic operators
+* Mathematical formulas
+* Output using `console.log()`
+* Basic calculations and problem-solving
 
-Console output (console.log())
-
-Author
+## 👨‍💻 Author
 
 Sneh Patel
+
+## 📄 License
+
+This project is created for educational and practice purposes.
