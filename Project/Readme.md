@@ -77,9 +77,7 @@ Watch the video demonstration of the Basic Calculation Assignment to see how the
 
 ▶️ **Project Demo Video:** 
 
-
-https://github.com/user-attachments/assets/898d9f2e-2280-471c-a80c-3dcc40bb04c5
-
+https://github.com/user-attachments/assets/cdf4f84e-632d-4a0f-b4d5-052404d6788d
 
 
 > **Note:** Replace the example link above with your actual video link. You can upload your video to YouTube or add a video file to your GitHub repository.
